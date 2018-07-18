@@ -1,0 +1,32 @@
+.main_menu {
+    padding: 5px 0 5px 0;
+    text-align: center;
+    line-height: 32px;
+   width: 900px;
+    background-color: #818181;
+    overflow: auto;
+}
+
+ul.main_menu {
+    margin-top: 0;
+}
+
+.main_menu li {
+    display: inline;
+    padding: 0 10px; 0 10px;
+    font-size: 16px;
+
+}
+
+.main_menu a {
+    width: 896px;
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    font-variant: small-caps;
+
+}
+
+.main_menu a:hover {
+    background-color: teal;
+    }
